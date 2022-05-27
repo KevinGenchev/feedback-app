@@ -19,5 +19,10 @@ Header.defaultProps = {
   bgColor: "red",
   textColor: "blue",
 };
+Header.propTypes = {
+  text: PropTypes.string,
+  bgColor: PropTypes.string,
+  textColor: PropTypes.string,
+};
 
 export default Header;
