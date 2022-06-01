@@ -4,11 +4,14 @@
       "id": 1,
       "rating": 10,
       "text": "This is feedback item 1 coming from the backend"
+<<<<<<< HEAD
     },
     {
       "text": "sadsadsadsadsadsad",
       "rating": 4,
       "id": 2
+=======
+>>>>>>> 19cd672fe08a5246b8d5ff35abe2fd1934f49361
     }
   ]
 }
